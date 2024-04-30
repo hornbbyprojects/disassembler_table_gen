@@ -1,9 +1,2 @@
 # disassembler_table_gen
-### _Your Name <your.name@example.com>_
-
-This is a project to do ... something.
-
-## License
-
-Specify license here
-
+Provides a simple dsl to generate inline c for each operation in the 8086 disassembler
